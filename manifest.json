@@ -1,0 +1,9 @@
+{
+    "name": "LocalizationLib",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Zeprus/20MTD-LocalizationLib",
+    "description": "A BepInEx library for programmatically managing localizations in 20 Minutes Till Dawn.",
+    "dependencies": [
+        "BepInExPackMTD-BepInExPack_20MTD-1.0.0"
+    ]
+}
